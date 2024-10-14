@@ -1,24 +1,26 @@
 ﻿<Properties StartupConfiguration="{1BF10656-5BD7-4612-BB4D-F23B7526DCA4}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Xamarin.IQKeyboardManager.NET/ApiDefinition.cs">
     <Files>
       <File FileName="Xamarin.IQKeyboardManager.NET/Xamarin.IQKeyboardManager.NET.csproj" />
-      <File FileName="Xamarin.IQKeyboardManager.NET/ApiDefinition.cs" Line="389" Column="17" />
+      <File FileName="Xamarin.IQKeyboardManager.NET/ApiDefinition.cs" Line="381" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Xamarin.IQKeyboardManager">
-            <Node name="Xamarin.IQKeyboardManager.NET" selected="True" />
+          <Node name="Xamarin.IQKeyboardManager" expanded="True">
+            <Node name="Xamarin.IQKeyboardManager.NET" expanded="True">
+              <Node name="ApiDefinition.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.IQKeyboardManager.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-000815540A2A402E" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhone" />
+  <MultiItemStartupConfigurations />
 </Properties>
